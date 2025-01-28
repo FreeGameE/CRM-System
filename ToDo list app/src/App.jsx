@@ -71,7 +71,7 @@ function App() {
       }
     } catch (error) {
       console.error("Ошибка при удалении данных:", error);
-    }
+    } 
   }
 
   // изменение данных на сервере
